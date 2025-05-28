@@ -26,7 +26,8 @@ public enum CustomCmdPlaceholdersEnum {
     PLAYER_NAME("{PLAYER_NAME}"),
     SHOP_LOC_X("{SHOP_LOC_X}"),
     SHOP_LOC_Y("{SHOP_LOC_Y}"),
-    SHOP_LOC_Z("{SHOP_LOC_Z}");
+    SHOP_LOC_Z("{SHOP_LOC_Z}"),
+    SHOP_WORLD("{SHOP_WORLD}");
 
     private final String placeholder;
 
